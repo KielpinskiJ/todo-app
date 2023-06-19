@@ -6,7 +6,7 @@ The app includes several features to improve the user experience, such as the ab
 
 ## Demo
 
-You can view a live demo of the project **[here](https://kielpinskij.github.io/react_todo-app-with-api/)**.
+You can view a live demo of the project **[here](https://kielpinskij.github.io/todo-app/)**.
 
 ## Features
 
